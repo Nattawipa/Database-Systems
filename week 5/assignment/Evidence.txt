@@ -1,0 +1,11 @@
+News_ID,News_Director,News_Website
+000,James Griffiths and Yong Xiong,https://edition.cnn.com/2021/02/18/asia/china-coronavirus-disinformation-fort-detrick-intl-hnk/index.html
+111,Joan Biskupic,https://edition.cnn.com/2021/02/18/politics/supreme-court-trump-taxes-vance/index.html
+222,Jason Hanna and Madeline Holcombe,https://edition.cnn.com/2021/02/18/weather/winter-storm-weather-thursday/index.html
+333,Ashley Strickland,https://edition.cnn.com/2021/02/18/world/how-to-watch-mars-rover-landing-scn-trnd/index.html
+444,Julia Horowitz,https://edition.cnn.com/2021/02/18/investing/christine-lagarde-richard-quest-interview/index.html
+555,Laurel Wamsley,https://www.npr.org/2021/02/18/968791431/american-life-expectancy-dropped-by-a-full-year-in-the-first-half-of-2020
+666,Bryan Lufkin,https://www.bbc.com/worklife/article/20210217-is-it-bad-to-you-work-from-your-bed-for-a-year
+777,Sean Szymkowski,https://www.cnet.com/roadshow/news/tesla-model-3-model-y-prices-affordable-ev/
+888,David Carnoy ,https://www.cnet.com/news/best-open-wireless-earbuds/
+999,Daniel Van Boom,https://www.cnet.com/news/mario-golf-super-rush-swings-onto-nintendo-switch-on-june-25/
