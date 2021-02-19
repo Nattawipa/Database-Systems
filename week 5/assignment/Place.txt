@@ -1,0 +1,11 @@
+News_ID,News_Country,News_Spot
+000,China,Beijing
+111,United States,Texas
+222,United States,Texas
+333,Galaxy,Mars
+444,Germany,The European Central Bank
+555,United States,United States
+666,United Kingdom,United Kingdom
+777,China,Shanghai
+888,China,China
+999,Japan,Japan
