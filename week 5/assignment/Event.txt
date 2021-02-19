@@ -1,0 +1,11 @@
+News_ID,News_Description
+000,Beijing officials make clear where they think the WHO should look next in their investigation into Covid origins.
+111,Lawsuits involving Donald Trump tore apart the Supreme Court while he was president\, and the justices apparently remain riven by him
+222,As hundreds of thousands of Texans struggle for heat and water because of utility outages for a fifth consecutive day\, more potentially deadly storms are hitting parts of the South and slamming the mid-Atlantic and Northeast with snow and ice.
+333,The search for signs of ancient life on Mars. The first helicopter fly on another planet. The first recordings of sound on the red planet.
+444,Some politicians are worried that countries will borrow too much to prop up the economy over the coming year. Christine Lagarde doesn't share their concerns.
+555,The average U.S. life expectancy dropped by a year in the first half of 2020\, according to a new report from the National Center for Health Statistics\, a part of the Centers for Disease Control and Prevention.
+666,The allure of working from bed is strong – but turning your mattress into your office can trigger a slew of health problems\, both psychological and physical.
+777,The base EVs are cheaper\, perhaps in response to the new Bolt EV\, but the high-end versions grow more expensive.
+888,Most innovative design for open earbuds Samsung Galaxy Buds Live
+999,It's not far off either\, as Nintendo announced the game will hit the Nintendo Switch on June 25.
