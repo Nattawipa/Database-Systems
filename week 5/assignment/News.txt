@@ -1,0 +1,11 @@
+News_ID,News_Agency,News_Topic
+000,CNN,China advances alternative Covid theories
+111,CNN,The Supreme Court is still sitting on Trump's tax returns\, and justices aren't saying why
+222,CNN,Millions are without power and cold. Some are even dying
+333,CNN,How to watch the Mars rover landing today
+444,CNN,Christine Lagarde'Ss biggest fear isn't the EU accumulating a mountain of debt
+555,NPR,American Life Expectancy Dropped By A Full Year In The First Half Of 2020
+666,BBC,Thousands of turtles rescued from Texas cold
+777,CNET,Tesla Model 3 and Y EVs prices drop in affordability
+888,CNET,The best open wireless earbuds that aren't AirPods
+999,CNET,Mario Golf Super Rush swings onto Nintendo Switch on June 25
